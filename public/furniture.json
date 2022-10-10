@@ -1,0 +1,56 @@
+[
+    {
+      "id": 0,
+      "productName": "Chakti",
+      "price": "$265",
+      "picture": "https://i.etsystatic.com/11003589/r/il/1309be/1697985799/il_340x270.1697985799_a758.jpg"
+    },
+    {
+      "id": 1,
+      "productName": "Designer Table",
+      "price": "$265",
+      "picture": "https://www.re-thinkingthefuture.com/wp-content/uploads/2021/07/A4533-10-Indian-Furniture-designers-everyone-should-know.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Wooden Swing",
+      "price": "$265",
+      "picture": "https://5.imimg.com/data5/GX/QQ/XW/SELLER-85660589/4-feet-wooden-swing-500x500.jpeg"
+    },
+    {
+      "id": 3,
+      "productName": "Wooden Bed",
+      "price": "$265",
+      "picture": "https://images.jdmagicbox.com/quickquotes/images_main/Wooden-Double-Bed-357977324-hb43p.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+    },
+    {
+      "id": 4,
+      "productName": "King Wedding Chair",
+      "price": "$265",
+      "picture": "https://sc04.alicdn.com/kf/HTB1tsvtaKkJL1JjSZFmq6Aw0XXa0.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Carved Rajasthani Chair",
+      "price": "$365",
+      "picture": "https://www.desiclik.com/images/P/RC5%20painted%20chair%20set.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "Lobby Chair",
+      "price": "$265",
+      "picture": "https://aakriti.store/wp-content/uploads/2020/06/AAC-30-04-82_1-1000x1000.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "Designer Chair",
+      "price": "$165",
+      "picture": "https://www.stirworld.com/images/see/1704_Remake_3.jpg?0"
+    },
+    {
+      "id": 8,
+      "productName": "Marbel Sofa",
+      "price": "$300",
+      "picture": "https://5.imimg.com/data5/SELLER/Default/2021/3/VJ/XH/ZV/100995663/fb-img-1521623600512-250x250.jpg"
+    }
+]
